@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="330" viewBox="0 0 1200 330"><defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><style>
+.bg{fill:#070b16}.panel{fill:#101a2b;stroke:#263650;stroke-width:2}.muted{fill:#91a0b8;font:18px monospace}.white{fill:#f4f6fb;font-family:Arial,sans-serif}.blue{fill:#247bff}.red{fill:#ff354f}.caps{font: bold 18px monospace;letter-spacing:2px}
+@media(prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style></defs>
+<rect width="1200" height="330" rx="26" class="bg"/><rect x="2" y="2" width="1196" height="326" rx="24" class="panel"/>
+<text x="55" y="65" class="caps blue">02 / TECH STACK</text>
+<g class="white" font-size="25" font-weight="700">
+<rect x="55" y="105" width="190" height="62" rx="14" fill="#172945" stroke="#247bff"/><text x="150" y="144" text-anchor="middle">JAVA</text>
+<rect x="270" y="105" width="190" height="62" rx="14" fill="#172945" stroke="#247bff"/><text x="365" y="144" text-anchor="middle">PYTHON</text>
+<rect x="485" y="105" width="190" height="62" rx="14" fill="#172945" stroke="#247bff"/><text x="580" y="144" text-anchor="middle">C / C++</text>
+<rect x="700" y="105" width="190" height="62" rx="14" fill="#2a192d" stroke="#ff354f"/><text x="795" y="144" text-anchor="middle">FLASK</text>
+<rect x="915" y="105" width="230" height="62" rx="14" fill="#2a192d" stroke="#ff354f"/><text x="1030" y="144" text-anchor="middle">SQL / SQLITE</text>
+</g>
+<text x="55" y="235" class="muted">HTML  •  CSS  •  JAVASCRIPT  •  GIT  •  GITHUB</text>
+<text x="55" y="280" class="caps red">LEARNING, BUILDING, SHIPPING.</text>
+</svg>

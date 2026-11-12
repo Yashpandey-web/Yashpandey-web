@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300"><defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient><style>
+.bg{fill:#070b16}.panel{fill:#101a2b;stroke:#263650;stroke-width:2}.muted{fill:#91a0b8;font:18px monospace}.white{fill:#f4f6fb;font-family:Arial,sans-serif}.blue{fill:#247bff}.red{fill:#ff354f}.caps{font: bold 18px monospace;letter-spacing:2px}
+@media(prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style></defs>
+<rect width="1200" height="300" rx="26" class="bg"/><rect x="2" y="2" width="1196" height="296" rx="24" class="panel"/>
+<text x="55" y="70" class="caps blue">01 / ABOUT ME</text>
+<text x="55" y="130" class="white" font-size="34" font-weight="700">Curious by nature. Builder by choice.</text>
+<text x="55" y="180" class="muted">MCA student focused on software development, practical tools</text>
+<text x="55" y="210" class="muted">and turning ideas into useful products.</text>
+<text x="55" y="265" class="caps red">CODING  •  GAMING  •  CONTENT CREATION</text>
+</svg>
