@@ -1,4 +1,4 @@
-# YASH.PANDEY
+# YASH PANDEY
 
 ![Hero](./assets/hero.svg?v=1)
 
@@ -23,8 +23,8 @@ Java · Python · C · C++ · HTML · CSS · JavaScript · Flask · SQL · SQLit
 | Project | Description | Link |
 |---|---|---|
 | AttendX | Student attendance management web application | [Live website](https://attendx-live.onrender.com) |
-| MARCO PDF | PDF utility platform | Repository link to be added |
-| VOLTÉ | Electricity bill receipt generator | Repository link to be added |
+| MARCO PDF | PDF utility platform | [Live website](https://yashpandey-web.github.io/Yash-Pdf/) |
+| VOLTÉ | Electricity bill receipt generator | [Live website](https://volte-electricity-bill.vercel.app/) |
 
 ## Connect
 
@@ -32,5 +32,3 @@ Java · Python · C · C++ · HTML · CSS · JavaScript · Flask · SQL · SQLit
 - YouTube: https://youtube.com/@roukmarcoy_07
 
 ---
-
-*Designed with a neon comic-inspired identity. More project and social links will be added when verified.*
